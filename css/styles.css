@@ -1,0 +1,22 @@
+html {
+    font-family: Calibri;
+    text-align: center;
+}
+
+body {
+    margin: 0px;
+}
+
+div#main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 100px;
+    margin: 0;
+}
