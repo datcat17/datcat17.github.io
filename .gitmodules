@@ -1,0 +1,3 @@
+[submodule "html/Pet the Cat"]
+	path = html/Pet the Cat
+	url = git@github.com:datcat17/Pet-the-Cat
