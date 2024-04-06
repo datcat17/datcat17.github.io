@@ -1,3 +1,8 @@
 [submodule "html/Pet the Cat"]
 	path = html/Pet the Cat
 	url = git@github.com:datcat17/Pet-the-Cat
+
+[submodule "Pet-the-Cat"]
+	path = html/Pet the Cat React
+	url = https://github.com/datcat17/Pet-the-Cat/
+	branch = v0.3.0-react
